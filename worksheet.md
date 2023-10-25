@@ -1,10 +1,9 @@
-# 03/23 worksheet
-## Initial due date: 04/01 @5pm
-### Accepted as on time until: 04/03 @11:59pm
+# 10/25 worksheet
+## Due Date: 11/03
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
-When done, run your code through [the autograder](http://autograder.oxy.edu/) and make a pull request on github. Don't forget to tag @irabkina.
+Don't forget to tag @Anh-Thuong-Vo.
 Respond to my comments by making new commits to the same branch.
 
 
